@@ -44,5 +44,5 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sastry%20Malapaka-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svmalapaka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sastry%20Malapaka-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/svmalapaka)
 [![GitHub](https://img.shields.io/badge/GitHub-svmalapaka-181717?logo=github&logoColor=white)](https://github.com/svmalapaka)
