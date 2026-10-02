@@ -31,6 +31,22 @@ Building intelligent data platforms and analytics systems. Learning in public. #
 
 ---
 
+---
+
+## 🧱 Microsoft Fabric Portfolio Index
+
+| Repository | Focus | Highlights |
+|-------------|--------|-------------|
+| [sastry-fabric-portfolio](https://github.com/svmalapaka/sastry-fabric-portfolio) | Lakehouse Architecture | Medallion pipelines, SQL endpoint, Power BI Gold analytics |
+| [Fabric-Monitoring-Throttling-Patterns](https://github.com/svmalapaka/Fabric-Monitoring-Throttling-Patterns) | Capacity Monitoring | Workload optimization, throttling insights |
+| [Fabric-License-Portal](https://github.com/svmalapaka/Fabric-License-Portal) | Governance & Licensing | Fabric license management and admin best practices |
+| [fabric-sales-etl](https://github.com/svmalapaka/fabric-sales-etl) | ETL Pipelines | Dataflow Gen2 + Power Query integration |
+| [Fabric-Sales-ETL-Architecture-Performance-Optimization](https://github.com/svmalapaka/Fabric-Sales-ETL-Architecture-Performance-Optimization) | Architecture Optimization | Lakehouse design and performance tuning |
+| [powerbi-fabric-journey](https://github.com/svmalapaka/powerbi-fabric-journey) | Learning Journey | 91‑day Power BI + Fabric challenge and certification prep |
+
+---
+
+
 ## 🔭 Currently Working On  
 - **Project 1:** NJ Real Estate Market Intelligence Dashboard (Power BI + Python)  
 - **NJ 75-Hour Real Estate Pre-Licensing:** 71% complete (41h 28m logged)
