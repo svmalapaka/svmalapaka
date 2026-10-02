@@ -3,6 +3,10 @@
 **Data & AI Engineer** | **Microsoft Fabric** | **Power BI** | **Python**  
 Building intelligent data platforms and analytics systems. Learning in public. #91DayChallenge 🚀  
 
+I specialize in building scalable analytics systems using Microsoft Fabric and Power BI.  
+My work spans Lakehouse architecture, Medallion pipelines, and real‑time data engineering.  
+I document every project publicly to help others learn and build with Fabric.
+
 ---
 
 ## 🧠 Certifications  
@@ -21,18 +25,6 @@ Building intelligent data platforms and analytics systems. Learning in public. #
 
 ---
 
-## 🌟 Featured Projects  
-
-| Project | Tech Stack | Status | Description |
-|----------|-------------|---------|--------------|
-| [powerbi-real-estate-dashboard](https://github.com/svmalapaka/powerbi-real-estate-dashboard) | Power BI · Python · DAX | 🟢 In Progress | Real Estate Market Intelligence Dashboard integrating Power BI + Python |
-| [fabric-sales-analytics](https://github.com/svmalapaka/fabric-sales-analytics) | Microsoft Fabric · Lakehouse · KQL | 🟡 Coming Soon | End-to-end Fabric pipeline for sales analytics |
-| [house-price-predictor-ml](https://github.com/svmalapaka/house-price-predictor-ml) | Python · scikit-learn · Streamlit | 🟡 Coming Soon | ML model predicting housing prices using regression |
-
----
-
----
-
 ## 🧱 Microsoft Fabric Portfolio Index
 
 | Repository | Focus | Highlights |
@@ -46,6 +38,15 @@ Building intelligent data platforms and analytics systems. Learning in public. #
 
 ---
 
+## 🌟 Featured Projects  
+
+| Project | Tech Stack | Status | Description |
+|----------|-------------|---------|--------------|
+| [powerbi-real-estate-dashboard](https://github.com/svmalapaka/powerbi-real-estate-dashboard) | Power BI · Python · DAX | 🟢 In Progress | Real Estate Market Intelligence Dashboard integrating Power BI + Python |
+| [fabric-sales-analytics](https://github.com/svmalapaka/fabric-sales-analytics) | Microsoft Fabric · Lakehouse · KQL | 🟡 Coming Soon | End-to-end Fabric pipeline for sales analytics |
+| [house-price-predictor-ml](https://github.com/svmalapaka/house-price-predictor-ml) | Python · scikit-learn · Streamlit | 🟡 Coming Soon | ML model predicting housing prices using regression |
+
+---
 
 ## 🔭 Currently Working On  
 - **Project 1:** NJ Real Estate Market Intelligence Dashboard (Power BI + Python)  
@@ -59,7 +60,3 @@ Building intelligent data platforms and analytics systems. Learning in public. #
 [![GitHub](https://img.shields.io/badge/GitHub-svmalapaka-black?logo=github)](https://github.com/svmalapaka)
 
 ---
-
-📍 Old Bridge, NJ · Data Engineering & AI  
-📧 svmalapaka@gmail.com  
-
