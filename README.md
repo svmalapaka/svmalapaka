@@ -33,8 +33,7 @@ Building intelligent data platforms and analytics systems. Learning in public. #
 
 ## 🔭 Currently Working On  
 - **Project 1:** NJ Real Estate Market Intelligence Dashboard (Power BI + Python)  
-- **PL-300 Prep:** 700+ practice questions across 2 Udemy courses  
-- **NJ 75-Hour Real Estate Pre-Licensing:** 47% complete  
+- **NJ 75-Hour Real Estate Pre-Licensing:** 71% complete (41h 28m logged)
 - **#91DayChallenge:** Daily LinkedIn learning journal (Day 9 of 91)  
 
 ---
