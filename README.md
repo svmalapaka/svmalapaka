@@ -1,49 +1,50 @@
-# Hi, I'm Sastry Malapaka 👋
+# 👋 Hi, I'm Sastry Malapaka  
 
-> **Data & AI Engineer | Microsoft Fabric | Power BI | Python**  
-> Building intelligent data platforms. Learning in public. #91DayChallenge 🚀
-
----
-
-## 🏅 Certifications
-
-![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-blue?logo=microsoftpowerbi&logoColor=white)
-![DP-600](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-blue?logo=microsoft&logoColor=white)
-![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-blue?logo=microsoft&logoColor=white)
-![AI-900](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?logo=microsoftazure&logoColor=white)
+**Data & AI Engineer** | **Microsoft Fabric** | **Power BI** | **Python**  
+Building intelligent data platforms and analytics systems. Learning in public. #91DayChallenge 🚀  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Certifications  
+![PL-300](https://img.shields.io/badge/PL--300-Power_BI_Data_Analyst-blue)  
+![DP-600](https://img.shields.io/badge/DP--600-Fabric_Analytics_Engineer-blue)  
+![DP-700](https://img.shields.io/badge/DP--700-Fabric_Data_Engineer-blue)  
+![AI-900](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-blue)
 
+---
+
+## ⚙️ Tech Stack  
 **Data Platform:** Microsoft Fabric · Power BI · Azure · SQL Server · Lakehouse · KQL  
 **Languages:** Python · DAX · SQL  
-**AI / ML:** Azure AI · LangChain · scikit-learn · OpenAI API  
-**Domain Expertise:** Real Estate Analytics · Financial Data · Business Intelligence
+**AI / ML:** LangChain · scikit-learn · OpenAI API  
+**Domain Expertise:** Real Estate Analytics · Financial Data · Business Intelligence  
 
 ---
 
-## 📂 Featured Projects
+## 🌟 Featured Projects  
 
-| Project | Tech Stack | Status |
-|---|---|---|
-| [powerbi-real-estate-dashboard](https://github.com/svmalapaka/powerbi-real-estate-dashboard) | Power BI · Python · DAX | 🔄 In Progress |
-| fabric-sales-analytics | Microsoft Fabric · Lakehouse · KQL | ⏳ Coming Soon |
-| house-price-predictor-ml | Python · scikit-learn · Streamlit | ⏳ Coming Soon |
-
----
-
-## 🎯 Currently Working On
-
-- 📊 **Project 1:** NJ Real Estate Market Intelligence Dashboard (Power BI + Python)
-- 📚 **PL-300** prep — 700+ practice questions across 2 Udemy courses
-- 🏠 **NJ 75-Hour Real Estate Pre-Licensing** — 47% complete
-- 📝 **#91DayChallenge** — daily LinkedIn learning journal (Day 3 of 91)
+| Project | Tech Stack | Status | Description |
+|----------|-------------|---------|--------------|
+| [powerbi-real-estate-dashboard](https://github.com/svmalapaka/powerbi-real-estate-dashboard) | Power BI · Python · DAX | 🟢 In Progress | Real Estate Market Intelligence Dashboard integrating Power BI + Python |
+| [fabric-sales-analytics](https://github.com/svmalapaka/fabric-sales-analytics) | Microsoft Fabric · Lakehouse · KQL | 🟡 Coming Soon | End-to-end Fabric pipeline for sales analytics |
+| [house-price-predictor-ml](https://github.com/svmalapaka/house-price-predictor-ml) | Python · scikit-learn · Streamlit | 🟡 Coming Soon | ML model predicting housing prices using regression |
 
 ---
 
-## 📫 Connect With Me
+## 🔭 Currently Working On  
+- **Project 1:** NJ Real Estate Market Intelligence Dashboard (Power BI + Python)  
+- **PL-300 Prep:** 700+ practice questions across 2 Udemy courses  
+- **NJ 75-Hour Real Estate Pre-Licensing:** 47% complete  
+- **#91DayChallenge:** Daily LinkedIn learning journal (Day 9 of 91)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sastry%20Malapaka-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sastry-malapaka-765b509/)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-svmalapaka-181717?logo=github&logoColor=white)](https://github.com/svmalapaka)
+## 🤝 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sastry_Malapaka-blue?logo=linkedin)](https://www.linkedin.com/in/sastrymalapaka)  
+[![GitHub](https://img.shields.io/badge/GitHub-svmalapaka-black?logo=github)](https://github.com/svmalapaka)
+
+---
+
+📍 Old Bridge, NJ · Data Engineering & AI  
+📧 svmalapaka@gmail.com  
+
